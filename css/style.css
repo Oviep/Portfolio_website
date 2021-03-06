@@ -127,12 +127,10 @@ a {
  .container5 {
      display: flex;
      flex-wrap: wrap;
-     width: 100%;
-   
+     width: 200%;
+     padding:0px 50px 0px 50px;   
  }
 
- .ptag {
-     width
- }
+ 
 
 
