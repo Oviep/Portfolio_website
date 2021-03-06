@@ -127,10 +127,20 @@ a {
  .container5 {
      display: flex;
      flex-wrap: wrap;
-     width: 200%;
-     padding:0px 50px 0px 50px;   
+    }
+
+ .con-5 {
+     margin: 0px 70px;
+   
  }
 
+.p-5 {
+    height: 5px;
+}
+
+.pc{
+    color: #e6e6e6;
+}
  
 
 
