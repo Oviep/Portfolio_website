@@ -202,6 +202,44 @@ a {
     margin-left: auto;
 }
 
+.skill-img {
+    width: 80px;
+}
+
+.container9 {
+    display: flex;
+    
+}
+
+.con-width2 {
+    width: 298px;
+}
+
+.span1 {
+ margin-left: 200px;
+}
+
+.span2 {
+    display: flex;
+    flex-direction: column;
+    width: 20px;
+  }
+
+  .con9-img1 {
+      margin-top: 10px;
+  }
+
+  #footer {
+    background-color: #ff66a3;
+    text-align: center;
+    margin-top: 60px;
+    padding: 10px 10px;
+  }
+
+  .p-footer {
+      color: #ffffff;
+  }
+
 
 
 
