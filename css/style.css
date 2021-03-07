@@ -3,6 +3,7 @@ body {
 
     margin: 30px auto 0;
     width: 80%; 
+    
 }
 
 .main-nav{
@@ -141,6 +142,70 @@ a {
 .pc{
     color: #e6e6e6;
 }
+
+.container6 {
+    display: flex;
+}
+
+ .card-1 {
+    box-shadow: 0px, 5px;
+    width: 273px;
+    margin-right: 50px;
+} 
+.card-1 img, h4 {
+    margin-bottom: -1rem;
+}
+
+.card-2 {
+    box-shadow: 0px, 5px;
+    width: 273px;
+    margin-right: 50px;
+}
+
+.card-2 img, h4 {
+    margin-bottom: -1rem;
+}
+
+.card-3 {
+    width: 273px;
+}
+
+.card3 img, h4 {
+    margin-bottom: -1rem;
+}
+
+.con-mini1 {
+    height: 10px;
+}
+
+.work1-img {
+    width: 1040px;
+}
+
+.container7 {
+    display: grid;
+    grid-template-columns:1fr 1fr;
+    gap: 30px;
+    margin-top: 20px;
+}
+
+.work-img {
+    width: 500px;
+}
+
+.container8 {
+    display: flex;
+    margin-top: 60px;
+}
+
+.con-mini8 {
+    margin-left: auto;
+}
+
+
+
+
+
  
 
 
